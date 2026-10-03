@@ -1,0 +1,7 @@
+.venv/
+__pycache__/
+*.pyc
+.build/
+.codex-finalizer/
+output/
+.DS_Store
